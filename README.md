@@ -1,2 +1,3 @@
 # Github
-github repo
+Github Repository
+Author - Vaishnavi Jadhav
